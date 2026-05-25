@@ -1,0 +1,27 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Flutter build web",
+			"type": "shell",
+			"command": "flutter",
+			"args": [
+				"build",
+				"web"
+			],
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Flutter build web",
+			"type": "shell",
+			"command": "flutter",
+			"args": [
+				"build",
+				"web"
+			],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
